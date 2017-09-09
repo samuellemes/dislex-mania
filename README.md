@@ -1,4 +1,4 @@
-#Dislex-Mania
+# Dislex-Mania
 
 Auxílio a protadores de dislexia na construção de aprendizado.
 
